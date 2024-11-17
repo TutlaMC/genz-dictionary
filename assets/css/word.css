@@ -1,0 +1,53 @@
+.word-main {
+    margin: 5vh 1vw;
+    padding: 1vw;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.word-name-text {
+    font-size: 20px;
+}
+
+.word-tags {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 1vh;
+    padding-bottom: 1vh;
+}
+
+.word-name {
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+
+    border-bottom: 0.85vh solid #807c799b;
+}
+
+.word-meaning-type {
+    margin-block: 1vh;
+    font-weight: bold;
+}
+
+.word-meaning-definition {
+    margin-block: 1vh;
+    font-size: 14px;
+}
+
+.word-meaning-example {
+    margin-block: 1vh;
+    font-size: 12px;
+    font-weight: bold;
+    color: #807c799b;
+}
+
+.word-synonyms {
+    margin-block: 1vh;
+    padding-left: 2vw;
+}
+
+
+hr {
+    color:#ebebed
+}

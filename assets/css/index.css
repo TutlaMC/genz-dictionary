@@ -1,0 +1,63 @@
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding-top: 8vh
+}
+
+.search-container input {
+    width: 50vw;
+    height: 5vh;
+}
+
+.search-container i {
+    font-size: 1.2em;
+    margin-left: 1vw;
+}
+
+.result-container {
+    padding: 2vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1vh;
+}
+
+.word {
+    padding-inline: 2vw;
+    padding-block: 0vh;
+    
+    width:18vw;
+    height: 6vh;
+
+    background-color: #F0F0F0;
+    border: 0.8px solid #CBBBA0;
+    border-radius: 10px;
+
+    text-align: left;
+
+    display: flex;
+    flex-direction: row;
+    gap: 1vh;
+
+}
+.word:hover {
+    box-shadow: 0px 0px 10px 0px #CBBBA0;
+}
+
+.word-name {
+    font-family: 'Palanquin', sans-serif;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+a {
+    text-decoration: none;
+    color: #4a3c31;
+}
+
+

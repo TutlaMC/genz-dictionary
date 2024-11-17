@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Palanquin:wght@400;500;600;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0e6d2;
+    font-family: sans-serif;
+    
+}
+
+nav {
+    height: 6.5vh;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding: 0px 0px 5px 1.5vw;
+    gap:0.5vw;
+
+    background-color: #4a3c31;
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    
+    color: #f0f0f0;
+    
+}
+
+
+nav i {
+    font-size: 1.2em;
+}
+
+nav a {
+    color: #f0f0f0;
+    text-decoration: none;
+}
+
+
+.word-tags {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1vh;
+
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+    text-align: right;
+}
+
+.tag {
+    font-size: clamp(1.2vw, 1.3vw, 1.4vw);
+    max-block-size: 2vw;
+    max-inline-size: 10vw;
+
+    font-weight: bold;
+    border-radius: 10px;
+    padding-inline: 0.5vw;
+    padding-block: 0.2vh;
+}
+
+.tag-new {
+    background-color: #FFD700;
+}
+
+.tag-nsfw {
+    background-color: #FF0000;
+}

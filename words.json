@@ -1,0 +1,206 @@
+{
+    "words": [
+        {
+            "word": "mid",
+            "meanings":[
+                {
+                    "type": "adjective",
+                    "definition": "Medium, Average Type/Class/Rating",
+                    "example": "His new video was mid af"
+                }
+            ],
+            "tags":[]
+        },
+        {
+            "word": "simp",
+            "meanings":[
+                {
+                    "type": "noun",
+                    "definition": "A silly or foolish person",
+                    "example": "Next to move is a simp"
+                },
+                {
+                    "type": "noun",
+                    "definition":"a person, in particular a man, who is excessively attentive or submissive to someone in whom they are romantically or sexually interested",
+                    "example": "Jack is a simp for Emily"
+                },
+                {
+                    "type": "verb",
+                    "definition":"Flirting/Acting submissive to someone in order to gain their affection (by being a simp)",
+                    "example": "He keeps simping over her"
+                }
+            ],
+            "tags":[]
+        },
+        {
+            "word":"bussin",
+            "meanings":[
+                {
+                    "type":"adjective",
+                    "definition":"Trending/Popular",
+                    "example":"Feastbables is bussin rn"
+                },
+                {
+                    "type":"adjective",
+                    "definition":"Great/Amazing/Doing well",
+                    "example":"That new restaurant is bussin"
+                }
+            ],
+            "tags":[]
+        },
+        {
+            "word":"gyatt",
+            "meanings":[
+                {
+                    "type":"noun",
+                    "definition":"A Butt",
+                    "example":"That gyatt is massive"
+                }
+            ],
+            "synonyms":["booty","ass"],
+            "tags":[""]
+        },
+        {
+            "word":"sigma",
+            "meanings":[
+                {
+                    "type":"adjective",
+                    "definition":"A Sigma Male/Female (most commonly used for males) is a man who has a lot of confidence, charisma, popular and very masculine aswell as compltetly self-reliant. Most sigma males go down escaping the [matrix]",
+                    "example":"The real sigma male needs no girls"
+                }
+            ],
+            "tags":[],
+            "synonyms":["sigma male","sigma female","lone wolf","top g","top dog","andrew tate","tate"]
+        },
+        {
+            "word":"matrix",
+            "meanings":[
+                {
+                    "type":"noun",
+                    "definition":"The world we live in, a system of control and manipulation. This terms has been started by Andrew Tate. Andrew Tate has often taken aim at politicians, the media, and large corporations as 'agents of The Matrix'. For many who follow him, the idea of escaping The Matrix is about seeing the world 'as it really is' and achieving success (and money) from doing so.",
+                    "example":"I'm trapped in the matrix"
+                }
+            ],
+            "tags":[]
+        },
+        {
+            "word":"fanum tax",
+            "meanings":[
+                {
+                    "type":"verb",
+                    "definition":"To steal food from somebody",
+                    "example":"She fanum taxed me"
+                },
+                {
+                    "type":"noun",
+                    "definition":"Food",
+                    "example":"I'm starving, can I have some fanum tax?"
+                }
+            ],
+            "tags":[]    
+        },
+        {"word": "rizz",
+          "meanings": [
+            {"type": "noun", "definition": "Capability of attracting someone (usually through a pickup line)", "example": "He has good rizz"}
+            ],
+            "tags":[]
+        },
+        {"word": "Mango",
+            "meanings": [
+            {"type": "phrase", "definition": "those who know 💀", "example": "Mango Mango Mango"}
+             ],
+            "tags": []
+        },
+        {
+            "word":"mewing",
+            "meanings":[
+                {
+                    "type":"verb",
+                    "definition":"Mouth/Jaw exercise to improve ones jawline",
+                    "example":"He's mewing"
+                },
+                {
+                    "type":"verb",
+                    "definition":"Doing well",
+                    "example":"He's mewing in the game"
+                }
+            ],
+            "tags":[]
+        },
+        {
+            "word":"still water",
+            "meanings":[
+                {
+                    "type":"noun",
+                    "definition":"Extremly dirty water, may contain brain eating amoebas",
+                    "example":"Prime is still water"
+                }
+            ],
+            "tags":[]
+        },
+        {
+            "word":"Mog",
+            "meanings":[
+                {
+                    "type":"verb",
+                    "definition":"To dominate or be better than someone",
+                    "example":"He's mogging me"
+                }
+            ],
+            "synonyms":["mogging","mewing"],
+            "tags":[]
+        },
+        {
+            "word":"Edging",
+            "meanings":[
+                {
+                    "type":"verb",
+                    "definition":"To finish doing your 'business' RIGHT before spewing",
+                    "example":"I've been edging for 2 hours"
+                }
+            ],
+            "synonyms":["touching myself"],
+            "tags":[]
+        },
+        {
+            "word":"Diddler",
+            "meanings":[
+                {
+                    "type":"noun",
+                    "definition":"A person who will 'touch' you",
+                    "example":"Diddy the diddler is coming home soon"
+                }
+            ],
+            "tags":[],
+            "synonyms":["diddy"]
+        },
+        {
+            "word":"Diddy",
+            "meanings":[
+                {
+                    "type":"noun",
+                    "definition":"A rapper known for owning 1000 bottles of baby oil",
+                    "example":"Diddy the [diddler] is coming home soon"
+                }
+            ],
+            "tags":[],
+            "synonyms":["diddler"]
+        },
+        {
+            "word":"alpha",
+            "meanings":[
+                {
+                    "type":"adjective",
+                    "definition":"A Lone wolf (check [sigma])",
+                    "example":"He's an alpha male"
+                }
+            ],
+            "tags":[],
+            "synonyms":["alpha male","lone wolf","sigma male","sigma"]
+        }
+
+        
+        
+
+    ]
+}
